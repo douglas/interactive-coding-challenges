@@ -3,8 +3,9 @@
   <img src="https://raw.githubusercontent.com/donnemartin/interactive-coding-challenges/master/images/cover_challenge.gif">
 </p>
 
-interactive-coding-challenges -- WIP: Stay tuned - I'm going to translate this to Brazilian Portuguese =)
-============
+# interactive-coding-challenges
+
+## WIP: Stay tuned - I'm going to translate this to Brazilian Portuguese =)
 
 **Continually updated, interactive and test-driven coding challenges**.
 
